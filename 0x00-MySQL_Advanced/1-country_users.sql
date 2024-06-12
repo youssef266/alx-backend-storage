@@ -1,4 +1,4 @@
---0x00-MySQL_Advanced/2-country_users.sql
+-- 0x00-MySQL_Advanced/2-country_users.sql
 -- SQL script that creates a table users following these
 CREATE TABLE IF NOT EXISTS users (
         id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
